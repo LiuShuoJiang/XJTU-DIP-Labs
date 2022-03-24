@@ -6,7 +6,7 @@ Assignments for XJTU Digital Image Processing
 
 Keeping on updating...
 
-
+Project Structure:
 ```
 XJTU-DIP-Assignments
 ├─ assignment1
@@ -81,8 +81,7 @@ XJTU-DIP-Assignments
 │  │  │  ├─ img4Canny.jpg
 │  │  │  ├─ img4Laplace.jpg
 │  │  │  ├─ img4Sobel.jpg
-│  │  │  ├─ img4Unsharped.jpg
-│  │  │  └─ 新建 文本文档.txt
+│  │  │  └─ img4Unsharped.jpg
 │  │  └─ Resource
 │  │     ├─ test1.pgm
 │  │     ├─ test2.tif
