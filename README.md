@@ -4,7 +4,7 @@ Assignments for XJTU Digital Image Processing
 
 西安交通大学数字图像处理作业（2022年春季）
 
-Keeping on updating...
+All assignments for this semester(i.e., 2022 spring) have been updated!
 
 Project Structure:
 ```
@@ -141,6 +141,21 @@ XJTU-DIP-Assignments
 │  │     └─ test4.tif
 │  ├─ 第五次作业.pdf
 │  └─ 第五次作业题目.md
+├─ assignment6
+│  ├─ DIPAssignment6
+│  │  ├─ .idea
+│  │  │  ├─ DIPAssignment6.iml
+│  │  │  ├─ inspectionProfiles
+│  │  │  │  └─ profiles_settings.xml
+│  │  │  ├─ misc.xml
+│  │  │  ├─ modules.xml
+│  │  │  ├─ other.xml
+│  │  │  ├─ workspace.xml
+│  │  │  └─ ZeppelinRemoteNotebooks
+│  │  ├─ Chapter06.py
+│  │  └─ lena.bmp
+│  ├─ 第六次作业.pdf
+│  └─ 第六次作业题目.md
 └─ README.md
 
 ```
