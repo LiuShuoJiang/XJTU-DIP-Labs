@@ -12,7 +12,7 @@ $$
 H\left( u,v \right) =\frac{T}{\pi \left( ua+vb \right)}\sin \left[ \pi \left( ua+vb \right) \right] e^{-j\pi \left( ua+vb \right)}
 $$
 
-第二，模糊 lena 图像：45 度方向，$T=1$ ；
+第二，模糊 lena 图像：45 度方向， $T=1$ ；
 
 第三，在模糊的 lena 图像中增加高斯噪声，均值为 0，方差为 10 个像素，以产生模糊图像；
 
