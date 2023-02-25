@@ -19,7 +19,9 @@ $$
 第四，分别利用如下两个方程恢复图像；并分析算法的优缺点：
 
 $$
-\hat{F}\left( u,v \right) =\left[ \frac{1}{H\left( u,v \right)}\cdot \frac{\left| H\left( u,v \right) \right|^2}{\left| H\left( u,v \right) \right|^2+K} \right] \cdot G\left( u,v \right)
-\\
+\hat{F}\left( u,v \right) =\left[ \frac{1}{H\left( u,v \right)}\cdot \frac{\left| H\left( u,v \right) \right|^2}{\left| H\left( u,v \right) \right|^2+K} \right] \cdot G\left( u,v \right);
+$$
+
+$$
 \hat{F}\left( u,v \right) =\left[ \frac{H^*\left( u,v \right)}{\left| H\left( u,v \right) \right|^2+\gamma \left| P\left( u,v \right) \right|^2} \right] \cdot G\left( u,v \right)
 $$
