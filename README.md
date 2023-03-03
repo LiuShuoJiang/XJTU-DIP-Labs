@@ -8,13 +8,13 @@ This repository contains all the labs and assignments for XJTU Digital Image and
 
 ## Contents
 
-- [Introduction to Images](assignment1/README.md)
-- [Image Registration](assignment2/README.md)
-- [Image Histogram](assignment3/README.md)
-- [Image Spatial Filtering](assignment4/README.md)
-- [Frequency Domain Filtering](assignment5/README.md)
-- [Image Restoration and Wiener Filter](assignment6/README.md)
-- [Exam Paper](exam/README.md)
+- [Introduction to Images](assignment1/)
+- [Image Registration](assignment2/)
+- [Image Histogram](assignment3/)
+- [Image Spatial Filtering](assignment4/)
+- [Frequency Domain Filtering](assignment5/)
+- [Image Restoration and Wiener Filter](assignment6/)
+- [Exam Paper](exam/)
 
 ## Requirements
 
